@@ -2,9 +2,9 @@
 
 **Android & Full-Stack Developer | GDG Core Member | NIT Mizoram**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:gamut1000@gmail.com)
-[![GDG](https://img.shields.io/badge/GDG-Member-4285F4?style=for-the-badge&logo=google)](your-gdg-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrkhiladi123)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bt23cs035@nitmz.ac.in)
+[![GDG](https://img.shields.io/badge/GDG-Member-4285F4?style=for-the-badge&logo=google)](https://www.linkedin.com/company/gdg-nit-mizoram/)
 
 ---
 
@@ -50,31 +50,7 @@
 - **UI/UX**
   - ADOBE XD  
   - FIGMA  
-  - CANVA  
-
----
-
-### Some Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikhiladi-star&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhiladi-star&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikhiladi-star&theme=highcontrast)
-
-![Contribution Snake](https://github.com/Mikhiladi-star/Mikhiladi-star/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 Projects & Achievements
-
-### 🔥 Featured Projects
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [AI Chatbot](link) | MERN + NLP | Customer support chatbot |
-| [School Management](link) | MERN | Custom management system |
-| [Profile App](link) | Flask/MERN | Dual implementation |
-| [Todo App](link) | MERN | With advanced features |
+  - CANVA 
 
 ### 🏅 Achievements
 - 🥈 **2nd Rank** in B.Tech CSE at NIT Mizoram
@@ -96,10 +72,10 @@
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: [gamut1000@gmail.com](mailto:gamut1000@gmail.com)
-- 💼 LinkedIn: [Your Profile](link)
+- 📧 Email: [gamut1000@gmail.com](mailto:bt23cs035@nitmz.ac.in)
+- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/mrkhiladi123)
 - 🐦 Twitter: [@YourHandle](link)
-- 📱 GDG Profile: [Your GDG Link](link)
+- 📱 GDG Profile: [Your GDG Link](https://www.linkedin.com/company/gdg-nit-mizoram/)
 
 ---
 
