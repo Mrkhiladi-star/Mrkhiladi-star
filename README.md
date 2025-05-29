@@ -45,11 +45,11 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikhiladi-star&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikhiladi-star&show_icons=true&theme=radical&hide_border=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhiladi-star&layout=compact&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhiladi-star&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikhiladi-star&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mikhiladi-star&theme=radical&hide_border=true)
 
 </div>
 
@@ -71,7 +71,7 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | AI Chatbot | Customer support chatbot with NLP | MERN + NLP | [Link](#) |
-| Trishastik Sustainable Forms | Customized management system | MERN Stack | [View](https://mrkhiladi.onrender.com/) |
+| Trishastik Sustainable Forms | Customized form & data system | MERN Stack | [View](https://mrkhiladi.onrender.com/) |
 | Profile App | Dual implementation profile app | Flask/MERN | [Link](#) |
 | Todo App | With pagination & real-time search | MERN Stack | [Link](#) |
 
@@ -90,9 +90,10 @@
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-```python
-# Snake animation will appear after:
-# 1. Committing this file
-# 2. Waiting a few minutes
+<img src="https://raw.githubusercontent.com/Mikhiladi-star/Mikhiladi-star/output/github-contribution-grid-snake.svg" />
+
+</div>
