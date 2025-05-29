@@ -1,87 +1,93 @@
-# 👋 Hi, I'm Mikhiladi Star
+<div align="center">
+
+# 💻 Mikhiladi Star
 
 **Android & Full-Stack Developer | GDG Core Member | NIT Mizoram**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrkhiladi123)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bt23cs035@nitmz.ac.in)
-[![GDG](https://img.shields.io/badge/GDG-Member-4285F4?style=for-the-badge&logo=google)](https://www.linkedin.com/company/gdg-nit-mizoram/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkhiladi123)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mikhiladi-star)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bt23cs035@nitmz.ac.in)
+
+</div>
 
 ---
 
-# Skills
+## 🛠️ Tech Stack
 
-## Category
-- **Frameworks**
-  - NEXT.JS  
-  - REACT  
-  - EXPRESS.JS  
-  - NODE.JS  
-  - FLASK  
+<div align="center">
 
-## Languages
-- **Styling & Frameworks**
-  - CSS3  
-  - TAILWIND CSS  
-  - SASS  
-  - BOOTSTRAP  
-  - EJS  
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-## Database
-- **Services & Tools**
-  - MONGODB  
-  - POSTGRESQL  
-  - MONGOOSE  
-  - PASSPORT.JS  
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Development
-- **IDE & Environment**
-  - VS CODE  
-  - PYCHARM  
-  - KEIL µVISION  
-  - ANDROID STUDIO  
+### **Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## Hosting
-- **APIs & Platforms**
-  - FIREBASE  
-  - HEROKU  
-  - NETLIFY  
+</div>
 
-## Design Tools
-- **UI/UX**
-  - ADOBE XD  
-  - FIGMA  
-  - CANVA 
+---
 
-### 🏅 Achievements
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikhiladi-star&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhiladi-star&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikhiladi-star&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
 - 🥈 **2nd Rank** in B.Tech CSE at NIT Mizoram
-- 🏆 **2nd Prize** in Tech Fest Debate
-- 🎯 **Top 0.1%** in CBSE 10th (96%)
-- 📊 **9.70 CGPA** in B.Tech
+- 🏆 **2nd Prize** in College Tech Fest Debate
+- 🎯 **Top 0.1%** in CBSE 10th Boards (96%)
+- 📊 **9.70 CGPA** in B.Tech (2nd Year)
 - 🏏 **Regional-level** Cricket Player
 - 🤼 **Cluster-level** Kabaddi Player
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [AI Chatbot](link) | Customer support chatbot with NLP | MERN + NLP |
+| [Trishastik Sustainable Forms](https://mrkhiladi.onrender.com/) | Customized management system | MERN Stack |
+| [Profile App](link) | Dual implementation profile app | Flask/MERN |
+| [Todo App](link) | With pagination & real-time search | MERN Stack |
+
+---
+
 ## 🌱 Currently Learning
-- Advanced React (Hooks, Context API)
-- Redux State Management
-- Next.js Optimization
-- JavaScript ES6+ Features
-- Advanced DSA Concepts
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: [gamut1000@gmail.com](mailto:bt23cs035@nitmz.ac.in)
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/mrkhiladi123)
-- 🐦 Twitter: [@YourHandle](link)
-- 📱 GDG Profile: [Your GDG Link](https://www.linkedin.com/company/gdg-nit-mizoram/)
+<div align="center">
 
----
+![Snake Animation](https://github.com/Mikhiladi-star/Mikhiladi-star/blob/output/github-contribution-grid-snake.svg)
 
-## 🎯 Goals for 2025
-- [ ] Contribute to 5+ open source projects
-- [ ] Master advanced JavaScript
-- [ ] Build 3 production-ready apps
-- [ ] Improve competitive programming skills
-- [ ] Learn cloud computing basics
+</div>
