@@ -57,37 +57,42 @@
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Rank** in B.Tech CSE at NIT Mizoram
-- 🏆 **2nd Prize** in College Tech Fest Debate
-- 🎯 **Top 0.1%** in CBSE 10th Boards (96%)
-- 📊 **9.70 CGPA** in B.Tech (2nd Year)
-- 🏏 **Regional-level** Cricket Player
-- 🤼 **Cluster-level** Kabaddi Player
+- ✅ **2nd Rank** in B.Tech CSE at NIT Mizoram  
+- ✅ **2nd Prize** in College Tech Fest Debate  
+- ✅ **Top 0.1%** in CBSE 10th Boards (96%)  
+- ✅ **9.70 CGPA** in B.Tech (2nd Year)  
+- ✅ **Regional-level** Cricket Player  
+- ✅ **Cluster-level** Kabaddi Player  
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [AI Chatbot](link) | Customer support chatbot with NLP | MERN + NLP |
-| [Trishastik Sustainable Forms](https://mrkhiladi.onrender.com/) | Customized management system | MERN Stack |
-| [Profile App](link) | Dual implementation profile app | Flask/MERN |
-| [Todo App](link) | With pagination & real-time search | MERN Stack |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| AI Chatbot | Customer support chatbot with NLP | MERN + NLP | [Link](#) |
+| Trishastik Sustainable Forms | Customized management system | MERN Stack | [View](https://mrkhiladi.onrender.com/) |
+| Profile App | Dual implementation profile app | Flask/MERN | [Link](#) |
+| Todo App | With pagination & real-time search | MERN Stack | [Link](#) |
 
 ---
 
 ## 🌱 Currently Learning
+
+<div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
+
 ---
 
 <div align="center">
 
-![Snake Animation](https://github.com/Mikhiladi-star/Mikhiladi-star/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+```python
+# Snake animation will appear after:
+# 1. Committing this file
+# 2. Waiting a few minutes
