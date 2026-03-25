@@ -49,22 +49,40 @@
 
 ---
 
+## 🌐 Portfolio
+
+🚀 Live: https://mrkhiladi.vercel.app/  
+💻 Code: https://github.com/Mrkhiladi-star/mrkhiladi  
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌾 Trishastik Bharat Sustainable Farm
-Full-stack platform connecting farmers directly with customers  
-**Tech:** Node.js, Express.js, JavaScript, MongoDB, Microservices  
+Full-stack platform connecting farmers directly with customers and promoting sustainable agriculture  
+**Tech:** Node.js, Express.js, MongoDB, JavaScript, Microservices  
 
-### 📊 GyanoVate(AI Enabled Education Ecosystem)
-Hierarchical Education Ecosystem Monitoring Plateform
-Ministry - > District Magistrate - > Principal -> Teacher - > Student
-**Tech:** React, Node.js, Next.js, TypeScript, MongoDB, AI Models, MicroServices  
+🔗 Live: https://mrkhiladi.onrender.com/  
+💻 Code: https://github.com/Mrkhiladi-star/-Trishastik  
 
-### 📋 Metronex (Luckonw Metro Project)
-Lucknow metro route planner with tourist places
-Live Tracking
-Smart Card Recharge System
-**Tech:** TypeScript, Node.js, Next.js, MongoDB, Metro API  
+---
+
+### 📊 GyanoVate (AI-Enabled Education Ecosystem)
+Hierarchical education monitoring platform  
+(Ministry → District → Principal → Teacher → Student)  
+**Tech:** React, Next.js, TypeScript, Node.js, MongoDB, AI Models, Microservices  
+
+🔗 Live: Coming Soon  
+💻 Code: https://github.com/Mrkhiladi-star/gyanovate  
+
+---
+
+### 🚇 Metronex (Lucknow Metro Project)
+Metro route planner with tourist integration, live tracking, and smart card recharge system  
+**Tech:** Next.js, TypeScript, Node.js, MongoDB, Metro API  
+
+🔗 Live: https://metronex.vercel.app/  
+💻 Code: https://github.com/Mrkhiladi-star/metronex  
 
 ---
 
