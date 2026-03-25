@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramu Yadav</h1>
-<h3 align="center">Android & Full Stack Developer | GDG Core Member | NIT Mizoram</h3>
+<h3 align="center">Full Stack Web Applications Developer | GDG Core Member | NIT Mizoram</h3>
 
 <p align="center">
   🚀 Passionate about building real-world applications | 💡 Exploring AI & DSA
@@ -21,8 +21,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE @ NIT Mizoram (**CGPA: 9.70**)  
-- 💼 Web Developer Intern  
-- 🌱 Currently learning Advanced DSA & Next.js  
+- 💼 Full Stack Web Applications Developer
+- 🌱 Currently learning Advanced DSA , Next.js ,Network Balancing  
 - ⚡ Interested in AI, scalable systems & full-stack development  
 
 ---
@@ -30,10 +30,10 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-`JavaScript` `TypeScript` `Python` `C++`
+`JavaScript` `TypeScript` `Python` `C++` `C` `Java` 
 
 ### ⚙️ Frameworks & Libraries
-`React.js` `Next.js` `Node.js` `Express.js` `Flask`
+`React.js` `Next.js` `Node.js` `Express.js` 
 
 ### 🎨 Styling
 `Tailwind CSS` `Bootstrap` `Sass` `CSS3`
@@ -42,10 +42,10 @@
 `MongoDB` `PostgreSQL`
 
 ### 🧰 Tools & Platforms
-`Git` `GitHub` `Firebase` `Netlify` `Heroku` `Vercel`
+`Git` `GitHub` `Firebase`  `Vercel` `VS Code` `Appwrite` `Postman`
 
 ### 🎨 Design
-`Figma` `Adobe XD` `Canva`
+`Figma` `Canva`
 
 ---
 
@@ -53,15 +53,18 @@
 
 ### 🌾 Trishastik Bharat Sustainable Farm
 Full-stack platform connecting farmers directly with customers  
-**Tech:** Next.js, Appwrite, TypeScript  
+**Tech:** Node.js, Express.js, JavaScript, MongoDB, Microservices  
 
-### 📊 EmployWise Dashboard
-Workforce management dashboard  
-**Tech:** React, Node.js  
+### 📊 GyanoVate(AI Enabled Education Ecosystem)
+Hierarchical Education Ecosystem Monitoring Plateform
+Ministry - > District Magistrate - > Principal -> Teacher - > Student
+**Tech:** React, Node.js, Next.js, TypeScript, MongoDB, AI Models, MicroServices  
 
-### 📋 Kanban Board
-Task management system  
-**Tech:** JavaScript  
+### 📋 Metronex (Luckonw Metro Project)
+Lucknow metro route planner with tourist places
+Live Tracking
+Smart Card Recharge System
+**Tech:** TypeScript, Node.js, Next.js, MongoDB, Metro API  
 
 ---
 
@@ -80,7 +83,8 @@ Task management system
 - Redux & State Management  
 - Next.js Optimization  
 - Advanced DSA  
-- JavaScript ES6+  
+- JavaScript ES6+
+- TypeScript
 
 ---
 
@@ -101,7 +105,7 @@ Task management system
 - 📧 Email: gamut1000@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mrkhiladi123  
 - 🐦 Twitter: (add link)  
-- 📱 GDG: https://www.linkedin.com/company/gdg-nit-mizoram/  
+- 📱 GDG: https://www.linkedin.com/mrkhiladi123  
 
 ---
 
