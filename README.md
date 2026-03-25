@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mikhiladi Star
+# 👋 Hi, I'm Ramu Yadav
 
 *Android & Full-Stack Developer | GDG Core Member | NIT Mizoram*
 
@@ -68,6 +68,14 @@
 - Next.js Optimization
 - JavaScript ES6+ Features
 - Advanced DSA Concepts
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mrkhiladi-star&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=Mrkhiladi-star)
 
 ---
 
