@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech CSE @ NIT Mizoram (**CGPA: 9.70**)  
+- 🎓 B.Tech CSE @ NIT Mizoram (**CGPA: 9.59**)  
 - 💼 Full Stack Web Applications Developer
 - 🌱 Currently learning Advanced DSA , Next.js ,Network Balancing  
 - ⚡ Interested in AI, scalable systems & full-stack development  
